@@ -12,8 +12,8 @@ BADUnboxing is an automated Android unpacker. It works by locating and decompili
 
 Once Bad Unboxing detects packing, it automatically generates a new Java application based on the decompiled code. This new application can be executed to drop dynamic unpacked artifacts to disk.
 
+https://github.com/LaurieWired/BadUnboxing/assets/123765654/b023fbad-a4a3-49fd-9572-61222c08c816
 
-https://github.com/LaurieWired/BadUnboxing/blob/main/media/Bad_Unboxing_Demo.mp4
 
 
 # Installation
