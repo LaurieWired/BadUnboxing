@@ -1,2 +1,2 @@
 # BadUnboxing
-Automated Android custom unpacker generator
+Automated Android malware unpacker
