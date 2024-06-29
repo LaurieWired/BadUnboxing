@@ -24,7 +24,7 @@ A precompiled JAR file, as well as helper startup scripts are provided in the [R
 
 ### Check out our **[Wiki](https://github.com/LaurieWired/BadUnboxing/wiki/Usage)** for usage instructions and examples.
 
-### Official Tutorial Video: 
+### Official Tutorial Video: [Bad Unboxing: Automated Android Unpacking](https://www.youtube.com/watch?v=8GbV3RWVo4A)
 
 
 # Contribute
