@@ -38,10 +38,6 @@ A precompiled JAR file, as well as helper startup scripts are provided in the [R
 
 Your contributions are greatly appreciated and will help make BADUnboxing an even more powerful and versatile tool for the Android Reverse Engineering community.
 
-# License
-
-BadUnboxing is licensed under the GNU Affero General Public License v3.0. See the [LICENSE](https://www.gnu.org/licenses/agpl-3.0) file for more information.
-
 # Screenshots
 
 ### Basic BadUnboxing View
